@@ -3,4 +3,9 @@ from time import sleep
 while True:
     print(f'Estamos funcionando ;-P')
     sleep(3)
-    
+
+'''
+PRECISAMOS REFAZER ESTA AULA, VISTO QUE A PLATAFORMA USADA (HEROKU)
+NAO EH MAIS GRATUITA. FOI COLOCADA UMA AULA BONUS USANDO O RAILWAY
+QUE SERIA UMA ALTERNATIVA "NAO PAGA".
+'''
